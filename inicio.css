@@ -1,0 +1,98 @@
+
+main > section {
+    background: url('../projeto/img-omma/backgroud\ inicio.png') center top no-repeat;
+    
+}
+
+.inferior {
+    background: url('../projeto/img-omma/backgroud\ fim.png') center bottom no-repeat;
+    height: 772px;
+    
+}
+
+.titulo {
+    padding: 74px 0 0 0 ;
+}
+
+h2 {
+    font-size: 70px;
+    font-weight: 700;
+    padding-top: 166px;
+    color: white;
+    margin: 0px 101px 302px 900px ;
+    text-shadow:0px 4px 4px rgba(0, 0, 0, 0.36);
+    width: 370px;
+    height: 170px;
+    
+}
+
+h1 {
+    color: #FFA000;
+    margin: 0 0 73px;
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.inferior h3 {
+        font-size: 65px;
+        font-weight: 700;
+        color: white;
+        padding: 0 0 73px 122px;
+        padding-top: 163px;
+        text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.36);
+
+}
+
+.inferior p {
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    width: 424px;
+    height: 333px;
+    padding: 0 0 107px 123px ;
+}
+
+.receitas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+
+.link-receita {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 345px;
+}
+
+.link-receita img {
+    width: 345px;
+    height: 342px;
+    margin: 0 0 12px;
+    display: block;
+}
+
+.link-receita span {
+    margin: 0 0 47px;
+    font-size: 26px ;
+    font-weight: 600;
+}
+
+.link-receita a {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    background: #176902;
+    padding: 9px 43px 10px 43px;
+    margin:0 0 158px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 185px;
+
+
+
+}

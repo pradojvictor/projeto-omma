@@ -1,0 +1,90 @@
+main > section {
+    background: url('../projeto/img-omma/banne-formulario.png') center top no-repeat ;
+    
+
+   
+
+}
+
+main > section h2 {
+    margin: 0 122px 283px;
+    padding-top: 49px;
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+    text-shadow:0px 4px 4px rgba(0, 0, 0, 0.36);
+    width: 419px;
+
+}
+
+main > section h2::after {
+    content: ' :)';
+}
+
+div {
+    padding: 0 0 0 133px ;
+}
+
+.divisao {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+form {
+    border:1px solid #FFA000;
+    border-radius: 20px;
+    width: 820px ;
+    height: 766px;
+    margin: 0 128px 133px 15px;
+}
+
+.input-borde {
+    border: 1px solid #FFA000;
+    border-radius: 7px;
+    margin: 0 20px 37px;
+    display: block;
+    width: 750px ;
+    height: 49px;
+    padding: 0 0 0 10px;
+}
+
+
+.input-borde-mensagem {
+    border: 1px solid #FFA000;
+    border-radius: 7px;
+    margin: 0 20px 37px;
+    display: block;
+    width: 750px ;
+    height: 290px;
+    resize: none;
+    padding: 0 0 0 10px;
+
+}
+
+.contato {
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFC107;
+    padding: 40px 0 0 33px;
+}
+
+.butom {
+    color: white;
+    background-color: #FFC107;
+    border: 1px solid #FFC107;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 800;
+    width: 164px;
+    height: 49px;    
+}
+
+fieldset {
+    border: none;
+}
+
+:focus {
+    border: 1px solid #FFA000;
+    outline: 0;
+
+}
