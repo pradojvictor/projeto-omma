@@ -1,11 +1,11 @@
 
 main > section {
-    background: url('../projeto/img-omma/backgroud\ inicio.png') center top no-repeat;
+    background: url('../projeto-omma/img-omma/backgroud\ inicio.png') center top no-repeat;
     
 }
 
 .inferior {
-    background: url('../projeto/img-omma/backgroud\ fim.png') center bottom no-repeat;
+    background: url('../projeto-omma/img-omma/backgroud\ fim.png') center bottom no-repeat;
     height: 772px;
     
 }
